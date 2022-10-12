@@ -1,0 +1,32 @@
+.header1 {
+    background-color: #01aead;
+}
+
+.header2 {
+    background-color: #079391;
+}
+
+.banner {
+    background-color: rgb(83,97,127);
+    background-color: linear-gradient(90deg, rgba(83,97,127,1) 50%, rgba(147,132,154,1) 100%);
+    height: 450px;
+
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.bottom {
+    background-color: #c7cbce;
+}
+
+.foot1 {
+    background-color: #232b35;
+}
+
+.foot2 {
+    background-color: #1a232a;
+}
